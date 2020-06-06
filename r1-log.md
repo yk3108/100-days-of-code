@@ -4,6 +4,14 @@
 
 ## 学習ログ
 
+### R1D4: 2020年6月6日（土）
+
+- FreeCodeCamp
+  - Applied Visual Design (52/52)
+  - Applied Accessibility (19/22)
+
+膨大な量に見えたレスポンシブWebデザイン認定が終わりが見えてきたので頑張ろう。
+
 ### R1D3: 2020年6月5日（金）
 
 - FreeCodeCamp
