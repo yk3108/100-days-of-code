@@ -4,6 +4,15 @@
 
 ## 学習ログ
 
+### R1D5: 2020年6月7日（日）
+
+- FreeCodeCamp
+  - Applied Accessibility (22/22)
+  - CSS Flexbox (17/17)
+  - CSS Grid (8/22)
+
+休日でも継続してできたのですこし自信がでてきた。明日で一週間なので気を抜かずがんばりたい。
+
 ### R1D4: 2020年6月6日（土）
 
 - FreeCodeCamp
