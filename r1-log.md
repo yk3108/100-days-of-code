@@ -4,6 +4,16 @@
 
 ## 学習ログ
 
+### R1D6: 2020年6月7日（月）
+
+- FreeCodeCamp
+  - CSS Grid (22/22)
+- HTML5プロフェッショナル認定試験レベル2
+  - 参考書 5-22 まで
+  - History Object と this について勉強
+
+明日で一週間だった。。。TwitterでLPI-Japanさんからいいねもらってやる気でた！
+
 ### R1D5: 2020年6月7日（日）
 
 - FreeCodeCamp
