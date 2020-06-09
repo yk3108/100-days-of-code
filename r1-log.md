@@ -4,6 +4,16 @@
 
 ## 学習ログ
 
+### R1D7: 2020年6月8日（火）
+
+- FreeCodeCamp
+  - Responsive Web Design Projects (1/5)
+- HTML5プロフェッショナル認定試験レベル2
+  - 参考書 模擬試験1 問題12 まで
+
+FreeCodeCampは問題自体は難しくないがCodePenの使い方がなれなくて苦労した。vscodeでやりたい。  
+試験は実際にコードを記述しながら進めて理解が深まった。手を動かす大切さを再認識。
+
 ### R1D6: 2020年6月7日（月）
 
 - FreeCodeCamp
