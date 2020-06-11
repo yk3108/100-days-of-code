@@ -4,6 +4,14 @@
 
 ## 学習ログ
 
+### R1D9: 2020年6月10日（木）
+
+- FreeCodeCamp
+  - Responsive Web Design Projects (4/5)
+
+忙しくて時間があまり取れない中、継続できたのでよかった。  
+問題よりもCodePenが使いづらく苦戦中。Emmet使えないのがこんなにもストレス溜まるとは思わなかった。
+
 ### R1D8: 2020年6月9日（水）
 
 - FreeCodeCamp
