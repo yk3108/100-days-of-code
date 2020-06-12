@@ -4,6 +4,15 @@
 
 ## 学習ログ
 
+### R1D10: 2020年6月11日（金）
+
+- FreeCodeCamp
+  - Responsive Web Design Projects (5/5)
+- HTML5プロフェッショナル認定試験レベル2
+  - 参考書 2周目 1-71
+
+Responsive Web Design Certification 終了。長かった。  
+
 ### R1D9: 2020年6月10日（木）
 
 - FreeCodeCamp
