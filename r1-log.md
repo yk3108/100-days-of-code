@@ -1,17 +1,24 @@
-# #100DaysOfCode 学習ログ - 1週目 - [yk3108]
+# #100DaysOfCode 学習ログ [yk3108]
 
-私の#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
+\#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
 ## 学習ログ
 
-### R1D11: 2020年6月12日（土）
+### Day:12 2020年6月13日（日）
+
+- FreeCodeCamp
+  - Basic JavaScript (100/110)
+
+再帰処理の問題が難しかった。頭をもっと柔らかくいなければ。
+
+### Day:11 2020年6月12日（土）
 
 - FreeCodeCamp
   - Basic JavaScript (73/110)
 
 まだ簡単なのでサクサク終わった。早くプロジェクト作成までいきたい。
 
-### R1D10: 2020年6月11日（金）
+### Day:10 2020年6月11日（金）
 
 - FreeCodeCamp
   - Responsive Web Design Projects (5/5)
@@ -20,7 +27,7 @@
 
 Responsive Web Design Certification 終了。長かった。  
 
-### R1D9: 2020年6月10日（木）
+### Day:9 2020年6月10日（木）
 
 - FreeCodeCamp
   - Responsive Web Design Projects (4/5)
@@ -28,7 +35,7 @@ Responsive Web Design Certification 終了。長かった。
 忙しくて時間があまり取れない中、継続できたのでよかった。  
 問題よりもCodePenが使いづらく苦戦中。Emmet使えないのがこんなにもストレス溜まるとは思わなかった。
 
-### R1D8: 2020年6月9日（水）
+### Day:8 2020年6月9日（水）
 
 - FreeCodeCamp
   - Responsive Web Design Projects (2/5)
@@ -38,7 +45,7 @@ Responsive Web Design Certification 終了。長かった。
 FreeCodeCampはプロジェクト作成まできて楽しくなって来た。内容は難しくないけど復習のつもりでしっかりやろう。  
 参考書の内容が結構忘れてたのでこっちも復習。
 
-### R1D7: 2020年6月8日（火）
+### Day:7 2020年6月8日（火）
 
 - FreeCodeCamp
   - Responsive Web Design Projects (1/5)
@@ -48,7 +55,7 @@ FreeCodeCampはプロジェクト作成まできて楽しくなって来た。�
 FreeCodeCampは問題自体は難しくないがCodePenの使い方がなれなくて苦労した。vscodeでやりたい。  
 試験は実際にコードを記述しながら進めて理解が深まった。手を動かす大切さを再認識。
 
-### R1D6: 2020年6月7日（月）
+### Day:6 2020年6月7日（月）
 
 - FreeCodeCamp
   - CSS Grid (22/22)
@@ -58,7 +65,7 @@ FreeCodeCampは問題自体は難しくないがCodePenの使い方がなれな�
 
 明日で一週間だった。。。TwitterでLPI-Japanさんからいいねもらってやる気でた！
 
-### R1D5: 2020年6月7日（日）
+### Day:5 2020年6月7日（日）
 
 - FreeCodeCamp
   - Applied Accessibility (22/22)
@@ -67,7 +74,7 @@ FreeCodeCampは問題自体は難しくないがCodePenの使い方がなれな�
 
 休日でも継続してできたのですこし自信がでてきた。明日で一週間なので気を抜かずがんばりたい。
 
-### R1D4: 2020年6月6日（土）
+### Day:4 2020年6月6日（土）
 
 - FreeCodeCamp
   - Applied Visual Design (52/52)
@@ -75,7 +82,7 @@ FreeCodeCampは問題自体は難しくないがCodePenの使い方がなれな�
 
 膨大な量に見えたレスポンシブWebデザイン認定が終わりが見えてきたので頑張ろう。
 
-### R1D3: 2020年6月5日（金）
+### Day:3 2020年6月5日（金）
 
 - FreeCodeCamp
   - Applied Visual Design (49/52)
@@ -87,7 +94,7 @@ FreeCodeCampは問題自体は難しくないがCodePenの使い方がなれな�
 Historyオブジェクトが初見でわからなかったので後日さわってみる。
 gitになれてきた。
 
-### R1D2: 2020年6月4日（木）
+### Day:2 2020年6月4日（木）
 
 - FreeCodeCamp
   - Basic Css (44/44)
@@ -98,7 +105,7 @@ gitになれてきた。
 javascriptのイベントバブリングについて調べて理解が深まった。  
 バブリングについてQiitaに投稿してみたい。
 
-### R1D1: 2020年6月3日（水）
+### Day:1 2020年6月3日（水）
 
 - FreeCodeCamp
   - Basic Css (41/44) まで
