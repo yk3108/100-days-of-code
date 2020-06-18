@@ -4,6 +4,15 @@
 
 ## 学習ログ
 
+## Day:16 2020年6月17日（木）
+
+- HTML5プロフェッショナル認定試験レベル2
+  - indexedDBを使ったページの作成
+- FreeCodeCamp
+  -Basic JavaScript (110/110)
+
+Basic JavaScript 終了。長かったけど勉強になってよかった。
+
 ## Day:15 2020年6月16日（水）
 
 - HTML5プロフェッショナル認定試験レベル2
