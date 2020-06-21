@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:19 2020年6月20日（日）
+
+- FreeCodeCamp
+  - Regular Expression (22/33)
+
+正規表現は奥が深くておもしろい。自在に操れるようになりたい。
+
 ## Day:18 2020年6月19日（土）
 
 - FreeCodeCamp
