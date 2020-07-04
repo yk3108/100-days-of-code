@@ -1,8 +1,22 @@
-# #100DaysOfCode 学習ログ [yk3108]
+# #100DaysOfCode学習ログ [yk3108]
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
 ## 学習ログ
+
+## Day:30 2020年7月2日（木）
+
+- HTML5プロフェッショナル認定試験レベル2
+　- 総復習その5
+
+試験まであと3日。油断せずがんばろう。
+
+## Day:29 2020年7月1日（水）
+
+- HTML5プロフェッショナル認定試験レベル2
+  - 読者特典ダウンロード問題を中心に復習
+
+問題は全問正解できたので自身がついた。日曜日に試験を予約したので油断せずがんばろう。
 
 ## Day:28 2020年6月30日（火）
 
@@ -102,21 +116,21 @@
 - FreeCodeCamp
   -Basic JavaScript (110/110)
 
-Basic JavaScript 終了。長かったけど勉強になってよかった。
+Basic JavaScript終了。長かったけど勉強になってよかった。
 
 ## Day:15 2020年6月17日（水）
 
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 2周目 6章終わりまで + 模擬試験
+  - 参考書2周目6章終わりまで + 模擬試験
   - sessionstorage,localstorage,WebSocketを使ったページの作成
 
-node.js + ws でwebsocketのサンプルが10分ほどでできてしまい驚いた。  
+node.js + wsでwebsocketのサンプルが10分ほどでできてしまい驚いた。  
 やはり手を動かすと理解が早いから色々さわってみよう。
 
 ## Day:14 2020年6月16日（火）
 
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 2周目 5章終わりまで
+  - 参考書2周目5章終わりまで
 - vscode設定
   - 全体の設定とvim周りを整備
 
@@ -125,7 +139,7 @@ node.js + ws でwebsocketのサンプルが10分ほどでできてしまい驚�
 ## Day:13 2020年6月15日（月）
 
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 2周目 2章終わりまで
+  - 参考書2周目2章終わりまで
 
 jsの理解が進んでいるのを実感できた。継続は力なり。
 
@@ -148,9 +162,9 @@ jsの理解が進んでいるのを実感できた。継続は力なり。
 - FreeCodeCamp
   - Responsive Web Design Projects (5/5)
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 2周目 1-71
+  - 参考書2周目1-71
 
-Responsive Web Design Certification 終了。長かった。  
+Responsive Web Design Certification終了。長かった。  
 
 ### Day:9 2020年6月11日（木）
 
@@ -165,7 +179,7 @@ Responsive Web Design Certification 終了。長かった。
 - FreeCodeCamp
   - Responsive Web Design Projects (2/5)
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 1周目完了。2周目 1-35
+  - 参考書1周目完了。2周目1-35
 
 FreeCodeCampはプロジェクト作成まできて楽しくなって来た。内容は難しくないけど復習のつもりでしっかりやろう。  
 参考書の内容が結構忘れてたのでこっちも復習。
@@ -175,9 +189,9 @@ FreeCodeCampはプロジェクト作成まできて楽しくなって来た。�
 - FreeCodeCamp
   - Responsive Web Design Projects (1/5)
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 模擬試験1 問題12 まで
+  - 参考書・模擬試験1問題12まで
 
-FreeCodeCampは問題自体は難しくないがCodePenの使い方がなれなくて苦労した。vscodeでやりたい。  
+FreeCodeCampの問題自体は難しくないがCodePenの使い方がなれなくて苦労した。vscodeでやりたい。  
 試験は実際にコードを記述しながら進めて理解が深まった。手を動かす大切さを再認識。
 
 ### Day:6 2020年6月8日（月）
@@ -185,8 +199,8 @@ FreeCodeCampは問題自体は難しくないがCodePenの使い方がなれな�
 - FreeCodeCamp
   - CSS Grid (22/22)
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 5-22 まで
-  - History Object と this について勉強
+  - 参考書5-22まで
+  - History Objectとthisについて勉強
 
 明日で一週間だった。。。TwitterでLPI-Japanさんからいいねもらってやる気でた！
 
@@ -205,14 +219,14 @@ FreeCodeCampは問題自体は難しくないがCodePenの使い方がなれな�
   - Applied Visual Design (52/52)
   - Applied Accessibility (19/22)
 
-膨大な量に見えたレスポンシブWebデザイン認定が終わりが見えてきたので頑張ろう。
+膨大な量に見えたレスポンシブWebデザイン認定の終わりが見えてきたので頑張ろう。
 
 ### Day:3 2020年6月5日（金）
 
 - FreeCodeCamp
   - Applied Visual Design (49/52)
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 2-44 まで
+  - 参考書2-44まで
 - AutoHotKye
   - いつかやろうと思っていた設定を終わらせてだいぶ快適になった。  
 
@@ -225,7 +239,7 @@ gitになれてきた。
   - Basic Css (44/44)
   - Applied Visual Design (26/52)
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 2-13 まで
+  - 参考書2-13まで
 
 javascriptのイベントバブリングについて調べて理解が深まった。  
 バブリングについてQiitaに投稿してみたい。
@@ -235,8 +249,8 @@ javascriptのイベントバブリングについて調べて理解が深まっ�
 - FreeCodeCamp
   - Basic Css (41/44) まで
 - HTML5プロフェッショナル認定試験レベル2
-  - 参考書 1-59 まで
+  - 参考書1-59まで
 - git
-  - 100-days-of-code の fork, clone, commit, push で基本的なことを学ぶ
+  - 100-days-of-codeのfork, clone, commit, pushで基本的なことを学ぶ
 - よかったところ
   - FreeCodeCampをがんばった
