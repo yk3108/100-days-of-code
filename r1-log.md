@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:34 2020年7月6日（月）
+
+- FreeCodeCamp
+  - Basic Data Structure 20/20
+
+久しぶりのCodeCampで楽しかった。
+
 ## Day:33 2020年7月5日（日）
 
 - HTML5プロフェッショナル認定試験レベル2
