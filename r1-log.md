@@ -6,10 +6,7 @@
 
 ## Day:36 2020年7月8日（水）
 
-- FreeCodeCamp
-  - Basic Data Structure 20/20
-
-gitの勉強がしたかったので[Learn Git branching](https://learngitbranching.js.org/?locale=ja)で勉強。  
+gitの勉強がしたかったので[Learn Git branching](https://learngitbranching.js.org/?locale=ja)で勉強。全レベル終了まで。  
 アニメーションでとてもわかりやすかった。
 
 ## Day:35 2020年7月7日（火）
