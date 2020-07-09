@@ -4,6 +4,10 @@
 
 ## 学習ログ
 
+## Day:37 2020年7月9日（木）
+
+引き続きgitの勉強。Learn Git branching 2周目、サル先生のGit入門、GitHubのtutorila等を見てだいたい把握できた。
+
 ## Day:36 2020年7月8日（水）
 
 gitの勉強がしたかったので[Learn Git branching](https://learngitbranching.js.org/?locale=ja)で勉強。全レベル終了まで。  
