@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:40 2020年7月12日（日）
+
+- FreeCodeCamp
+  - Basic Algorithm Scripting 16/16
+
+最後の方が難しかった。自力で解けてよかった。
+
 ## Day:39 2020年7月11日（土）
 
 - FreeCodeCamp
