@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:39 2020年7月11日（土）
+
+- FreeCodeCamp
+  - Basic Algorithm Scripting 12/16
+
+頭の体操のようでおもしろい。
+
 ## Day:38 2020年7月10日（金）
 
 - FreeCodeCamp
