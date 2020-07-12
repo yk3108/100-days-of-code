@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:38 2020年7月10日（金）
+
+- FreeCodeCamp
+  - Basic Algorithm Scripting 8/16
+
+配列操作は奥が深い。
+
 ## Day:37 2020年7月9日（木）
 
 引き続きgitの勉強。Learn Git branching 2周目、サル先生のGit入門、GitHubのtutorila等を見てだいたい把握できた。
