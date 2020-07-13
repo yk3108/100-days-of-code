@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:41 2020年7月13日（月）
+
+- FreeCodeCamp
+  - Object Oriented Programming 13/26
+
+試験勉強のおかげでさくさく解けた。
+
 ## Day:40 2020年7月12日（日）
 
 - FreeCodeCamp
