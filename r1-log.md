@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:42 2020年7月14日（火）
+
+- FreeCodeCamp
+  - Object Oriented Programming 26/26
+
+プロトタイプの理解が進んでよかった。
+
 ## Day:41 2020年7月13日（月）
 
 - FreeCodeCamp
