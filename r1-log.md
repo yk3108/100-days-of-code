@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:43 2020年7月15日（水）
+
+- FreeCodeCamp
+  - Functional Programming 6/24
+
+前から興味あった関数型プログラミングがでてきてうれしいけれど難しい。
+
 ## Day:42 2020年7月14日（火）
 
 - FreeCodeCamp
