@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:43 2020年7月16日（木）
+
+- FreeCodeCamp
+  - Functional Programming 11/24
+
+組み込み関数の実装方法が学べておもしろい。
+
 ## Day:43 2020年7月15日（水）
 
 - FreeCodeCamp
