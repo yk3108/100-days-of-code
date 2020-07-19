@@ -4,7 +4,7 @@
 
 ## 学習ログ
 
-## Day:43 2020年7月16日（木）
+## Day:44 2020年7月16日（木）
 
 - FreeCodeCamp
   - Functional Programming 11/24
