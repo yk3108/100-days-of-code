@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:45 2020年7月17日（金）
+
+- FreeCodeCamp
+  - Functional Programming 16/24
+
+解答のようなシンプルな解き方ができるようになってきた。
+
 ## Day:44 2020年7月16日（木）
 
 - FreeCodeCamp
