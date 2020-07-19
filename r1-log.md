@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:46 2020年7月18日（土）
+
+- FreeCodeCamp
+  - Functional Programming 24/24
+
+関数型プログラミング終了。おもしろかった。
+
 ## Day:45 2020年7月17日（金）
 
 - FreeCodeCamp
