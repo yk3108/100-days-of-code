@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:49 2020年7月21日（火）
+
+- FreeCodeCamp
+  - Intermediate Algorithm Scripting 8/21
+
+解けるけれどコードが長くなりがちなのでもっと勉強が必要だと感じる。
+
 ## Day:48 2020年7月20日（月）
 
 - FreeCodeCamp
