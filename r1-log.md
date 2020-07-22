@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:50 2020年7月22日（水）
+
+- FreeCodeCamp
+  - Intermediate Algorithm Scripting 12/21
+
+50/100達成。これからも頑張ろう。フィボナッチ数の問題が難しかった。
+
 ## Day:49 2020年7月21日（火）
 
 - FreeCodeCamp
