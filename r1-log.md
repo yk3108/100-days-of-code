@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:51 2020年7月23日（木）
+
+- FreeCodeCamp
+  - Intermediate Algorithm Scripting 14/21
+
+素数のアルゴリズムが解けておもしろかった。
+
 ## Day:50 2020年7月22日（水）
 
 - FreeCodeCamp
