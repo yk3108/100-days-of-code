@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:52 2020年7月24日（金）
+
+- FreeCodeCamp
+  - Intermediate Algorithm Scripting 16/21
+
+再帰処理を使用して解けたのでよかった。
+
 ## Day:51 2020年7月23日（木）
 
 - FreeCodeCamp
