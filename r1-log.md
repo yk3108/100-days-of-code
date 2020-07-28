@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:53 2020年7月25日（土）
+
+- FreeCodeCamp
+  - Intermediate Algorithm Scripting 18/21
+
+きれいなコードで解けたのでよかった。
+
 ## Day:52 2020年7月24日（金）
 
 - FreeCodeCamp
