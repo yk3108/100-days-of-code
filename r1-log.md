@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:54 2020年7月26日（日）
+
+- FreeCodeCamp
+  - Intermediate Algorithm Scripting 21/21
+
+アルゴリズム終了。頭の体操のようで楽しかった。
+
 ## Day:53 2020年7月25日（土）
 
 - FreeCodeCamp
