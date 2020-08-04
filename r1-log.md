@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:59 2020年7月31日（金）
+
+- FreeCodeCamp
+  - JavaScript Algorithms and Data Structures Projects 4.5/5
+
+最後の問題の途中まで。英語の問題文からして難しい。
+
 ## Day:58 2020年7月30日（木）
 
 vscodeとautohotkeyの設定まわりの整備。少しだけのつもりが2時間たってた。
