@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:60 2020年8月1日（土）
+
+- FreeCodeCamp
+  - JavaScript Algorithms and Data Structures Projects 5/5
+
+時間がかかったけれど自力で解けたのでうれしい。やっとアルゴリズムが終わった。
+
 ## Day:59 2020年7月31日（金）
 
 - FreeCodeCamp
