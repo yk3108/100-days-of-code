@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:61 2020年8月2日（日）
+
+- FreeCodeCamp
+  - Sass 9/9
+
+やっとライブラリまでこれた。Sassの基本まで。
+
 ## Day:60 2020年8月1日（土）
 
 - FreeCodeCamp
