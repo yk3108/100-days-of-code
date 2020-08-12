@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:66 2020年8月7日（金）
+
+- FreeCodeCamp
+  - React 29/47
+  
+props,stateの特徴と使い方を勉強。
+
 ## Day:65 2020年8月6日（木）
 
 - FreeCodeCamp
