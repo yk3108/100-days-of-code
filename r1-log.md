@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:69 2020年8月10日（月）
+
+- FreeCodeCamp
+  - React 34/47
+  
+単方向データフローの概念を学ぶ。
+
 ## Day:68 2020年8月9日（日）
 
 - [React Tutorial](https://ja.reactjs.org/tutorial/tutorial.html)
