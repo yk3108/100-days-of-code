@@ -4,6 +4,14 @@
 
 ## 学習ログ
 
+## Day:67 2020年8月8日（土）
+
+- [React Tutorial](https://ja.reactjs.org/tutorial/tutorial.html)
+  - 導入から勝者の判定まで
+  
+ローカルでやりたかったのでチュートリアルをやる。  
+npx create-react-app がタイムアウトしてしまい対応に時間がかかってしまった。
+
 ## Day:66 2020年8月7日（金）
 
 - FreeCodeCamp
