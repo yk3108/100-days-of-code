@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:65 2020年8月6日（木）
+
+- FreeCodeCamp
+  - React 25/47
+  
+thisのbind方法など基本的なことを勉強。
+
 ## Day:64 2020年8月5日（水）
 
 - FreeCodeCamp
