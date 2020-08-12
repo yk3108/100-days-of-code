@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:68 2020年8月9日（日）
+
+- [React Tutorial](https://ja.reactjs.org/tutorial/tutorial.html)
+  - 終わりまで
+  
+基本が学べておもしろかった。
+
 ## Day:67 2020年8月8日（土）
 
 - [React Tutorial](https://ja.reactjs.org/tutorial/tutorial.html)
