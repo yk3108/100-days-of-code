@@ -4,47 +4,54 @@
 
 ## 学習ログ
 
+## Day:71 2020年8月12日（水）
+
+- FreeCodeCamp
+  - React 47/47
+
+Reactの基礎が学べたので良かった。
+
 ## Day:70 2020年8月11日（火）
 
 - FreeCodeCamp
   - React 40/47
-  
+
 三項演算子の使い方を学ぶ。短く可読性もいいので意識して使いたい。
 
 ## Day:69 2020年8月10日（月）
 
 - FreeCodeCamp
   - React 34/47
-  
+
 単方向データフローの概念を学ぶ。
 
 ## Day:68 2020年8月9日（日）
 
 - [React Tutorial](https://ja.reactjs.org/tutorial/tutorial.html)
   - 終わりまで
-  
+
 基本が学べておもしろかった。
 
 ## Day:67 2020年8月8日（土）
 
 - [React Tutorial](https://ja.reactjs.org/tutorial/tutorial.html)
   - 導入から勝者の判定まで
-  
+
 ローカルでやりたかったのでチュートリアルをやる。  
-npx create-react-app がタイムアウトしてしまい対応に時間がかかってしまった。
+npx create-react-appがタイムアウトしてしまい対応に時間がかかってしまった。
 
 ## Day:66 2020年8月7日（金）
 
 - FreeCodeCamp
   - React 29/47
-  
+
 props,stateの特徴と使い方を勉強。
 
 ## Day:65 2020年8月6日（木）
 
 - FreeCodeCamp
   - React 25/47
-  
+
 thisのbind方法など基本的なことを勉強。
 
 ## Day:64 2020年8月5日（水）
