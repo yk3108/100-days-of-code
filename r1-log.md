@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:76 2020年8月17日（月）
+
+- FreeCodeCamp
+  - React and Redux 10/10
+
+Reduxで状態管理することの利点が理解できてよかった。
+
 ## Day:75 2020年8月16日（日）
 
 - FreeCodeCamp
