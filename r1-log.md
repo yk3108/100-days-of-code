@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:73 2020年8月14日（金）
+
+- FreeCodeCamp
+  - Redux 12/17
+
+Reduxの基本のまとめまで。
+
 ## Day:72 2020年8月13日（木）
 
 - FreeCodeCamp
