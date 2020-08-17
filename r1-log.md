@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:75 2020年8月16日（日）
+
+- FreeCodeCamp
+  - React and Redux 5/10
+
+Reduxの追加方法について学ぶ。
+
 ## Day:74 2020年8月15日（土）
 
 - FreeCodeCamp
