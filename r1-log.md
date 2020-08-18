@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:77 2020年8月18日（火）
+
+- FreeCodeCamp
+  - Front End Libraries Projects - Build a Random Quote Machine
+
+半分ぐらいまで。create-react-app+eslint+prettierの環境構築に手間取った。
+
 ## Day:76 2020年8月17日（月）
 
 - FreeCodeCamp
