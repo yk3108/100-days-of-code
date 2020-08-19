@@ -4,6 +4,13 @@
 
 ## 学習ログ
 
+## Day:78 2020年8月19日（水）
+
+- FreeCodeCamp
+  - Build a Random Quote Machine
+
+完成まで。次の課題用の環境構築も完了。
+
 ## Day:77 2020年8月18日（火）
 
 - FreeCodeCamp
