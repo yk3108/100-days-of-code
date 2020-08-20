@@ -2,7 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
-## 学習ログ
+## Day:79 2020年8月20日（金）
+
+- FreeCodeCamp
+  - Build a Markdown Previewer
+
+完成まで。react-bootstrapを追加。test #6がどうしてもパスできなかった。  
+別の完成済みコードをコピペしても完了できず原因不明。
 
 ## Day:78 2020年8月19日（水）
 
