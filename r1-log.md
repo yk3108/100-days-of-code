@@ -2,28 +2,35 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
-## Day:82 2020年8月23日（月）
+## Day:82 2020年8月24日（月）
 
 - FreeCodeCamp
   - Build a Drum Machine
 
 Stateのリフトアップが面倒だった。最初からStateの共有を考えてやるべきだった。
 
-## Day:81 2020年8月22日（日）
+## Day:82 2020年8月23日（日）
+
+- FreeCodeCamp
+  - Build a Drum Machine
+
+Stateのリフトアップが面倒だった。最初からStateの共有を考えてやるべきだった。
+
+## Day:81 2020年8月22日（土）
 
 - FreeCodeCamp
   - Build a Drum Machine
 
 ほぼ完成まで。airbnbのルールに適合するように調整するのに手間取った。
 
-## Day:80 2020年8月21日（土）
+## Day:80 2020年8月21日（金）
 
 - FreeCodeCamp
   - Build a Drum Machine
 
 環境構築から1/3ほど。とくに難しいところはなかった。
 
-## Day:79 2020年8月20日（金）
+## Day:79 2020年8月20日（木）
 
 - FreeCodeCamp
   - Build a Markdown Previewer
