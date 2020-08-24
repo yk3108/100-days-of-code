@@ -2,6 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
+## Day:81 2020年8月22日（日）
+
+- FreeCodeCamp
+  - Build a Drum Machine
+
+ほぼ完成まで。airbnbのルールに適合するように調整するのに手間取った。
+
 ## Day:80 2020年8月21日（土）
 
 - FreeCodeCamp
