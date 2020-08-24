@@ -2,6 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
+## Day:82 2020年8月23日（月）
+
+- FreeCodeCamp
+  - Build a Drum Machine
+
+Stateのリフトアップが面倒だった。最初からStateの共有を考えてやるべきだった。
+
 ## Day:81 2020年8月22日（日）
 
 - FreeCodeCamp
