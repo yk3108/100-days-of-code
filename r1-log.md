@@ -2,12 +2,12 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
-## Day:82 2020年8月24日（月）
+## Day:83 2020年8月24日（月）
 
 - FreeCodeCamp
-  - Build a Drum Machine
+  - Build a JavaScript Calculator
 
-Stateのリフトアップが面倒だった。最初からStateの共有を考えてやるべきだった。
+環境構築と次回以降すぐ構築できるように手順をmdファイルへまとめた。
 
 ## Day:82 2020年8月23日（日）
 
