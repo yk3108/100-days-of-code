@@ -2,6 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
+## Day:88 2020年8月29日（土）
+
+- FreeCodeCamp
+  - Build a JavaScript Calculator
+
+ほぼ完成。テスト13だけ合格できなかったので明日やる。
+
 ## Day:87 2020年8月28日（金）
 
 - FreeCodeCamp
