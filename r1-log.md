@@ -2,6 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
+## Day:90 2020年8月31日（月）
+
+- FreeCodeCamp
+  - Build a Pomodoro Clock
+
+環境構築と各部品作成の途中まで。
+
 ## Day:89 2020年8月30日（日）
 
 - FreeCodeCamp
