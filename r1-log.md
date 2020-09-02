@@ -2,6 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
+## Day:92 2020年9月2日（水）
+
+- FreeCodeCamp
+  - Build a Pomodoro Clock
+
+機能の実装半分程度まで。
+
 ## Day:91 2020年9月1日（火）
 
 - FreeCodeCamp
