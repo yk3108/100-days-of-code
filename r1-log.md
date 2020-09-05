@@ -2,6 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
+## Day:94 2020年9月4日（金）
+
+- FreeCodeCamp
+  - Build a Pomodoro Clock
+
+audioを除いて完成。setIntervalが一番手こずった。
+
 ## Day:93 2020年9月3日（木）
 
 - FreeCodeCamp
