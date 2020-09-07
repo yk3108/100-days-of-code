@@ -2,6 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
+## Day:96 2020年9月6日（日）
+
+- FreeCodeCamp
+  - Build a Pomodoro Clock
+
+react-fontawesomeを追加して見た目の調整。簡単に追加できて軽く感動。
+
 ## Day:95 2020年9月5日（土）
 
 - FreeCodeCamp
