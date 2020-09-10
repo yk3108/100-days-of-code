@@ -2,13 +2,20 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。2020年6月3日開始。
 
+## Day:100 2020年9月11日（金）
+
+- FreeCodeCamp
+  - Build a Pomodoro Clock
+
+README.mdの編集とLICENCEの追加。  
+:congratulations: I achieved 100days :exclamation:
+
 ## Day:99 2020年9月9日（水）
 
 - FreeCodeCamp
   - Build a Pomodoro Clock
 
-はじめてのデプロイ。結構時間がかかったけれどできてよかった。  
-READMEなどそのままなので後日きちんと作ろう。
+はじめてのデプロイ。結構時間がかかったけれどできてよかった。READMEなどそのままなので後日きちんと作ろう。
 [pomodoro-clock](https://yk3108.github.io/pomodoro-clock/)
 
 ## Day:98 2020年9月8日（火）
