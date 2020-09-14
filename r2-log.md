@@ -2,6 +2,10 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:103 2020年9月14日（月）
+
+Random Quote Machineをtypescriptにその2。難しい。基本から勉強しないとダメだ。
+
 ## Day:102 2020年9月13日（日）
 
 Random Quote Machineをtypescriptに。
