@@ -2,6 +2,10 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:105 2020年9月16日（水）
+
+Random Quote MachineをClassからfunction component + Hooksに。eslint-plugin-react-hooksのルール追加と対応。useEffectのエラー対応に時間かかった。
+
 ## Day:104 2020年9月15日（火）
 
 Random Quote Machineをtypescriptにする作業完了。React公式とTypeScript Deep Diveが役に立った。
