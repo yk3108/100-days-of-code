@@ -2,6 +2,10 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:106 2020年9月17日（金）
+
+Markdown Previewerをtypescriptに。環境構築と変更作業。
+
 ## Day:105 2020年9月16日（水）
 
 Random Quote MachineをClassからfunction component + Hooksに。eslint-plugin-react-hooksのルール追加と対応。useEffectのエラー対応に時間かかった。
