@@ -2,7 +2,7 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
-## Day:106 2020年9月17日（金）
+## Day:106 2020年9月17日（木）
 
 Markdown Previewerをtypescriptに。環境構築と変更作業。
 
