@@ -2,6 +2,10 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:108 2020年9月23日（水）
+
+eslintの設定が間違っていたので修正と対応。公式にちゃんと書いてあった。
+
 ## Day:107 2020年9月18日（金）
 
 Markdown Previewerをtypescriptにその2。
