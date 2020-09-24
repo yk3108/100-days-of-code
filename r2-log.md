@@ -2,6 +2,11 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:109 2020年9月24日（木）
+
+Random Quote Machineをデプロイ。完成すると達成感があってうれしい。  
+<https://yk3108.github.io/random-quote-machine-typescript/>
+
 ## Day:108 2020年9月23日（水）
 
 eslintの設定が間違っていたので修正と対応。公式にちゃんと書いてあった。
