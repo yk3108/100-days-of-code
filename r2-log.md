@@ -2,6 +2,10 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:110 2020年9月25日（金）
+
+Markdown Previewerの#6だけ合格できず原因不明。また明日調べる。
+
 ## Day:109 2020年9月24日（木）
 
 Random Quote Machineをデプロイ。完成すると達成感があってうれしい。  
