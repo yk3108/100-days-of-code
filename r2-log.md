@@ -2,6 +2,12 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:114 2020年9月29日（火）
+
+Drum MachineをTypeScriptに。半分程度終了。
+
+\#100DaysOfCode \#freeCodeCamp
+
 ## Day:113 2020年9月28日（月）
 
 Markdown Previewerをデプロイ。  
