@@ -2,6 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:115 2020年9月30日（水）
+
+Drum Machineをデプロイ。デプロイに慣れてきた。  
+<https://yk3108.github.io/drum-machine-typescript/>
+
+\#100DaysOfCode \#freeCodeCamp
+
 ## Day:114 2020年9月29日（火）
 
 Drum MachineをTypeScriptに。半分程度終了。
