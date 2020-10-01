@@ -2,6 +2,12 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:116 2020年10月31日（木）
+
+JavaScript CalculatorをTypeScriptに。TypeScriptにも慣れてきた。
+
+\#100DaysOfCode \#freeCodeCamp
+
 ## Day:115 2020年9月30日（水）
 
 Drum Machineをデプロイ。デプロイに慣れてきた。  
