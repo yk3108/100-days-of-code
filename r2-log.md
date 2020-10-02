@@ -2,7 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
-## Day:116 2020年10月31日（木）
+## Day:117 2020年10月2日（金）
+
+デプロイしたら404になってしまった。時間がないので明日修正する。
+
+\#100DaysOfCode \#freeCodeCamp
+
+## Day:116 2020年10月1日（木）
 
 JavaScript CalculatorをTypeScriptに。TypeScriptにも慣れてきた。
 
