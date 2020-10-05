@@ -2,6 +2,12 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:120 2020年10月5日（月）
+
+既存のCRAをTypeScriptにしていたけれどエラーでうまくいかなかったので、新規作成。時間があるときにCRA→TypeScriptの移行方法を勉強しよう。
+
+\#100DaysOfCode \#freeCodeCamp
+
 ## Day:119 2020年10月4日（日）
 
 Pomodoro ClockをTypeScriptに。1/3程度終わり。
