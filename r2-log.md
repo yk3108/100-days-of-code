@@ -2,6 +2,13 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:121 2020年10月6日（火）
+
+Pomodoro Clockをデプロイ。また404になっているけれど少し様子を見る。  
+<https://yk3108.github.io/pomodoro-clock-typescript>
+
+\#100DaysOfCode \#freeCodeCamp
+
 ## Day:120 2020年10月5日（月）
 
 既存のCRAをTypeScriptにしていたけれどエラーでうまくいかなかったので、新規作成。時間があるときにCRA→TypeScriptの移行方法を勉強しよう。
