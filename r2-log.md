@@ -2,6 +2,12 @@
 
 \#100DaysOfCodeチャレンジの学習ログです。101Day~
 
+## Day:128 2020年10月13日（火）
+
+any型で怒られる問題に苦戦した。TypeScriptの理解が足りないと実感。
+
+\#100DaysOfCode
+
 ## Day:127 2020年10月12日（月）
 
 以前作ったToDoアプリをReact+TypeScriptで作り直し。半分程度完了。
